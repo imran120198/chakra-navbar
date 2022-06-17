@@ -1,0 +1,17 @@
+.div1{
+   
+  width: 44%;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 4px;
+}
+.div1>span{
+  font-weight: 500;
+  font-size: 14px;
+}
+.div1>span:hover{
+  text-decoration: underline;
+}
+.h1{
+  font-weight: bold;
+}
